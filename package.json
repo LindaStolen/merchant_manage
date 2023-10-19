@@ -1,0 +1,22 @@
+{
+  "name": "merchant_manage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LindaStolen/merchant_manage.git"
+  },
+  "author": "Linda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LindaStolen/merchant_manage/issues"
+  },
+  "homepage": "https://github.com/LindaStolen/merchant_manage#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
